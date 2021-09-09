@@ -1,5 +1,10 @@
 # shangxueba_anwer
+
+WELCOME!
+========
+
 This project can get shangxueba anwer for url
+=========
 
 # 1.0版本说明：
 
@@ -18,18 +23,18 @@ This project can get shangxueba anwer for url
 7.有什么问题也可以提出谢谢！
 
 8.感谢支持！
+=========
 
 # 结构说明：
 
 - server 服务器文件，用于接受数据，和数据处理
-
 - mian.py 主窗口入口
-
 - icon.ico 图标文件
+=========
 
 # 环境要求：
 
 - Python3.X
-
 - WxPython
 - Requests
+=========
