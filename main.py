@@ -1,3 +1,15 @@
+# * 上学吧链接获取答案API接口
+# * 1.0版本只能通过链接获取
+# * 获取方式：REQUEST
+# -  提交参数：url,
+# 
+# class
+# -  参数说明：url为上学吧链接
+# -  class为输出结果参数，设置为kyz则直接输出答案
+# * 请定时更新cookie值
+# @author 中国DLAY
+# @email zsxianoo@qq.com
+
 # coding:utf-8
 import wx
 import requests
